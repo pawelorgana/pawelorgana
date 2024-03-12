@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paweł Organa from Poland 
+- I Enjoy learing things related to database like SQL
+- 🌱 I’m currently learning DOCKER and  KUBERNATES
+- 💞️ I’m looking for any task that can show my knowledge connected with SQL mainly MYSQL and MSSQL and some T-SQL
+- 📫 How to reach me number : 792427959 or email address : Paweł.organa@gmail.com 
